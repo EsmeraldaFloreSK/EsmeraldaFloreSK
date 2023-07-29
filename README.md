@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<img id="img-perfil" src="Esmeralda Flores.png" class="img-thumbnail rounded-circle" alt="Foto de perfil">
 ![banner](Esmeralda Flores.png)
 
 <p align='center'>
