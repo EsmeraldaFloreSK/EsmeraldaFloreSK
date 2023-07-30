@@ -4,7 +4,7 @@
 
 
 <p align='center'>
-  <a href="www.linkedin.com/in/esmeraldafloresk"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/esmeraldafloresk/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 
 
  <div align="center">
